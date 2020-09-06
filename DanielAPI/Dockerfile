@@ -1,12 +1,10 @@
-#Depending on the operating system of the host machines(s) that will build or run the containers, the image specified in the FROM statement may need to be changed.
-#For more information, please see https://aka.ms/containercompat
-
-FROM mcr.microsoft.com/dotnet/core/aspnet:2.1-nanoserver-1809 AS base
+FROM microsoft/dotnet:2.1-aspnetcore-runtime AS base
 WORKDIR /app
-EXPOSE 80
-EXPOSE 443
+RUN mkdir /app/images
+EXPOSE 44369
+ENV ASPNETCORE_URLS=http://+:44369
 
-FROM mcr.microsoft.com/dotnet/core/sdk:2.1-nanoserver-1809 AS build
+FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /src
 COPY ["DanielAPI/DanielAPI.csproj", "DanielAPI/"]
 RUN dotnet restore "DanielAPI/DanielAPI.csproj"

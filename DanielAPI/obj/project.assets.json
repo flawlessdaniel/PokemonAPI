@@ -12603,23 +12603,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danielcarbajal\\.nuget\\packages\\": {},
+    "C:\\Users\\flawl\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspaces\\BackgroundIT\\API\\api\\DanielAPI\\DanielAPI\\DanielAPI.csproj",
+      "projectUniqueName": "E:\\Workspaces\\BackgroundIT\\Pokemon\\API\\DanielAPI\\DanielAPI.csproj",
       "projectName": "DanielAPI",
-      "projectPath": "D:\\Workspaces\\BackgroundIT\\API\\api\\DanielAPI\\DanielAPI\\DanielAPI.csproj",
-      "packagesPath": "C:\\Users\\danielcarbajal\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspaces\\BackgroundIT\\API\\api\\DanielAPI\\DanielAPI\\obj\\",
+      "projectPath": "E:\\Workspaces\\BackgroundIT\\Pokemon\\API\\DanielAPI\\DanielAPI.csproj",
+      "packagesPath": "C:\\Users\\flawl\\.nuget\\packages\\",
+      "outputPath": "E:\\Workspaces\\BackgroundIT\\Pokemon\\API\\DanielAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\danielcarbajal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\flawl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12627,7 +12627,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

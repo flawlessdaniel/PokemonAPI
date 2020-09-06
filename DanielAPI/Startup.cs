@@ -90,8 +90,6 @@ namespace DanielAPI
                 app.UseHsts();
             }
 
-            // using Microsoft.Extensions.FileProviders;
-            // using System.IO;
             app.UseStaticFiles(new StaticFileOptions
             {
                 FileProvider = new PhysicalFileProvider(Path.GetFullPath("images")),

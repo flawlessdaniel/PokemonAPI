@@ -122,5 +122,20 @@ namespace DanielAPI.Controllers
                 return String.Empty;
             }
         }
+
+        [HttpGet]
+        [Route("Test")]
+        [EnableCors("AllowOrigin")]
+        public string Test([FromBody] A001Usuario usuario)
+        {
+            try
+            {
+                return DateTime.Now.ToString();
+            }
+            catch (Exception ex)
+            {
+                return String.Empty;
+            }
+        }
     }
 }
