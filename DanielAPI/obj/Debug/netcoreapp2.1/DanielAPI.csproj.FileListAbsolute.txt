@@ -1,0 +1,15 @@
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\bin\Debug\netcoreapp2.1\DanielAPI.deps.json
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\bin\Debug\netcoreapp2.1\DanielAPI.runtimeconfig.json
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\bin\Debug\netcoreapp2.1\DanielAPI.runtimeconfig.dev.json
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\bin\Debug\netcoreapp2.1\DanielAPI.dll
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.csprojAssemblyReference.cache
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.csproj.CoreCompileInputs.cache
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.RazorAssemblyInfo.cache
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.RazorAssemblyInfo.cs
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.AssemblyInfoInputs.cache
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.AssemblyInfo.cs
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.RazorTargetAssemblyInfo.cache
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\bin\Debug\netcoreapp2.1\DanielAPI.pdb
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.dll
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\DanielAPI.pdb
+D:\Workspaces\BackgroundIT\API\api\DanielAPI\DanielAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
